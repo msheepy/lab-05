@@ -3,11 +3,11 @@
 ## Student Details
 
 - **Full Name:** `Marin Nelson`
-- **CCID:** `monelson`
+- **CCID:** `<Enter ccid>`
 
 ## References and Resources
 
- `N/A` .
+List any resources used here, or simply put `N/A` if not applicable.
 
 ## Verbal Collaboration
 
